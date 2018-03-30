@@ -1,5 +1,6 @@
 /** Class that determines whether or not a year is a leap year.
- *  @author Walker Glenn Snedaker
+ *  The user will give a year as a command line parameter "java LeapYear 2000"
+ *  @author 
  */
 public class LeapYear {
 
